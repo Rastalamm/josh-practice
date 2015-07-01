@@ -1,4 +1,4 @@
 #Josh Practice
 
-Josh- Copy yoru notes here so I can see them.
+Josh- Copy your notes here so I can see them.
 
