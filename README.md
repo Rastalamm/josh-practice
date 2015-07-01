@@ -1,4 +1,3 @@
-# josh-practice
+# Josh Practice
 
-
-testing...
+Josh - type in your notes
