@@ -1,4 +1,4 @@
-# josh-practice
+#Josh Practice
 
-Teaching josh how to use github
+Josh- Copy yoru notes here so I can see them.
 
